@@ -15,13 +15,13 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          おはようエディット{' '}
+          サンプルアプリです{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
+            <h3>サンプルドキュメント &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
