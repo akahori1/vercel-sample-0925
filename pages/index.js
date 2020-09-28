@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>０９２８全部変えたで！</title>
+        <title>０９２８めっちゃ全部変えたで！！！！！！！</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
