@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>こんばんは</title>
+        <title>違うパソコンでGitを変更してみたよ！</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
